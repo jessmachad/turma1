@@ -1,6 +1,6 @@
 class Veiculo:
     def dirigir(self):
-        return "O veículo em movimento"
+        return "O veículo está em movimento"
 
     def descricao(self):
         return f"{self.__class__.__name__}: {self.dirigir()}"
