@@ -7,7 +7,7 @@ class Veiculo:
 
 class Carro(Veiculo):
     def dirigir(self):
-        return ""
+        return "Dirigindo!"
 
 class Moto(Veiculo):
     def dirigir(self):
