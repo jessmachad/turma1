@@ -6,3 +6,4 @@ alterando o read.me
 
 01 - Alex Ramos dos Santos
 02 - Gabriel Adriano de Jesus Reis
+03 - Jessica Machado Sacramento
